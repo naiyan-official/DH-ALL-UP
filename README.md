@@ -11,9 +11,9 @@ Malwares, Some special pakages and Another Hacking tools
 # apt update && apt upgrade -y 
 # pkg install python -y 
 # pkg install git -y 
-# git clone https://github.com/DH-AL/Dh-All
-# cd Dh-All
-# bash Dh-All.sh 
+# [git clone https://github.com/DH-AL/Dh-All](https://github.com/naiyan-official/DH-ALL-UP)
+# cd DH-ALL-UP
+# python dhall.py 
 
 ```
 # Screenshot:
