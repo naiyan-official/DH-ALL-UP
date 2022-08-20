@@ -8,12 +8,16 @@ Malwares, Some special pakages and Another Hacking tools
 
 # Installation 
 ```
-git clone https://github.com/Anon-Divyanth/H-Tool
-cd H-Tool
-python Htool.py
+# apt update && apt upgrade -y 
+# pkg install python -y 
+# pkg install git -y 
+# git clone https://github.com/DH-AL/Dh-All
+# cd Dh-All
+# bash Dh-All.sh 
+
 ```
 # Screenshot:
-![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/Screenshot_2021_0502_072223.png)
+![alt text](https://github.com/DH-AL/Dh-All/blob/main/Screenshot_20210514-210157_Termux.png)
 # Feautures:
 It contain advance and professional hacking tools For
 For doing Advance level of Hacking., it contain 200+
@@ -34,6 +38,18 @@ Hacking Tools. These are the list of Hacking tools
 - Another Hacking Tools = 32
 
 **Total tools = 308**
+
+
+** About Developed**
+
+# This Tool was Developed by - 
+# Naiyan AR Rahman & Asrafi Abir 
+
+**For any issues Contract with us**
+
+_Naiyan AR Rahman_ - [Telegram](t.me/naiyanarrahman) <br>
+_Asrafi Abir_ - [Messenger](facebook/ashrafiabir04)
+# Specially Thanks to - Tanvir Vai,Rabby And Other for help
 
 # Note:
 Don’t use this tool for illigal purposes 
